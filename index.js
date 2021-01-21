@@ -24,6 +24,7 @@ module.exports = {
     '@typescript-eslint/no-floating-promises': 0,
     '@typescript-eslint/no-misused-promises': 0,
     '@typescript-eslint/no-unused-vars': 0,
-    '@typescript-eslint/require-await': 0
+    '@typescript-eslint/require-await': 0,
+    '@typescript-eslint/brace-style': [2, 'stroustrup', { allowSingleLine: true }]
   }
 }

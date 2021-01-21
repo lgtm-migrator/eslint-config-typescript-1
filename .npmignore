@@ -1,0 +1,13 @@
+node_modules/
+.vscode/
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# npm specific
+.gitignore
+.gitattributes
+README.md
+.eslintcache

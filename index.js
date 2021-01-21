@@ -5,9 +5,9 @@ module.exports = {
     node: true
   },
   extends: [
-    '@tmware',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'standard-with-typescript'
+    'standard-with-typescript',
+    '@tmware'
   ],
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint'],
@@ -25,6 +25,7 @@ module.exports = {
     '@typescript-eslint/no-misused-promises': 0,
     '@typescript-eslint/no-unused-vars': 0,
     '@typescript-eslint/require-await': 0,
-    '@typescript-eslint/brace-style': [2, 'stroustrup', { allowSingleLine: true }]
+    '@typescript-eslint/brace-style': [2, 'stroustrup', { allowSingleLine: true }],
+    'no-unused-vars': 0
   }
 }

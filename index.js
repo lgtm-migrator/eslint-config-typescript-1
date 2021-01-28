@@ -20,12 +20,15 @@ module.exports = {
     sourceType: 'script'
   },
   rules: {
+    'no-unused-vars': 0,
+    indent: 0,
     // "@typescript-eslint/array-type": [1, ]
     '@typescript-eslint/no-floating-promises': 0,
     '@typescript-eslint/no-misused-promises': 0,
     '@typescript-eslint/no-unused-vars': 0,
     '@typescript-eslint/require-await': 0,
     '@typescript-eslint/brace-style': [2, 'stroustrup', { allowSingleLine: true }],
-    'no-unused-vars': 0
+    '@typescript-eslint/strict-boolean-expressions': 0,
+    '@typescript-eslint/indent': [2, 2, { SwitchCase: 1 }]
   }
 }

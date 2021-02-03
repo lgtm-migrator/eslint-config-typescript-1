@@ -29,6 +29,8 @@ module.exports = {
     '@typescript-eslint/require-await': 0,
     '@typescript-eslint/brace-style': [2, 'stroustrup', { allowSingleLine: true }],
     '@typescript-eslint/strict-boolean-expressions': 0,
-    '@typescript-eslint/indent': [2, 2, { SwitchCase: 1 }]
+    '@typescript-eslint/indent': [2, 2, { SwitchCase: 1 }],
+    '@typescript-eslint/triple-slash-reference': 0,
+    '@typescript-eslint/consistent-type-assertions': [2, { assertionStyle: 'as', objectLiteralTypeAssertions: 'allow-as-parameter' }]
   }
 }

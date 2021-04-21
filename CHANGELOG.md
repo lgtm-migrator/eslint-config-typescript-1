@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.6...v1.0.7) (2021-04-21)
+
+
+### Bug Fixes
+
+* **package:** do not pack .releaserc.yml ([#3](https://github.com/TMWare/eslint-config-typescript/issues/3)) ([346b421](https://github.com/TMWare/eslint-config-typescript/commit/346b421fe9599e8854042b5fbd9a62d85371bab0))
+
 ## [1.0.6](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.5...v1.0.6) (2021-04-21)
 
 

@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "eslint config for tmware typescript projects",
   "main": "index.js",
-  "repository": "https://github.com/TMWare/eslint-config.git",
+  "repository": "https://github.com/TMWare/eslint-config-typescript.git",
   "author": "TMUniversal <me@tmuniversal.eu>",
   "license": "MIT",
   "private": false,

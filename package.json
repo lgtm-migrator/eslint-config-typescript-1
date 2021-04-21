@@ -1,6 +1,6 @@
 {
   "name": "@tmware/eslint-config-typescript",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "eslint config for tmware typescript projects",
   "main": "index.js",
   "repository": "https://github.com/TMWare/eslint-config-typescript.git",

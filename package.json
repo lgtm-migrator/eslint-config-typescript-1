@@ -26,10 +26,14 @@
   "devDependencies": {
     "@tmware/prettier-config": "^1.0.2",
     "eslint": "^7.18.0",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "semantic-release": "^17.4.2"
   },
   "eslintConfig": {
     "extends": "@tmware"
   },
-  "prettier": "@tmware/prettier-config"
+  "prettier": "@tmware/prettier-config",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  }
 }

@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@tmware/eslint-config": "^1.1.2",
-    "@types/node": "^15.3.1",
+    "@types/node": "^16.0.3",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
     "eslint-config-standard": "^16.0.2",

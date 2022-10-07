@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.9...v1.0.10) (2022-10-07)
+
+
+### chore
+
+* **deps:** add renovate.json ([8564751](https://github.com/TMWare/eslint-config-typescript/commit/856475188c72dc5b0f693f5c6d203c95c29403d8))
+
 ## [1.0.9](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.8...v1.0.9) (2022-10-07)
 
 

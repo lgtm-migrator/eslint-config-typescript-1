@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.8...v1.0.9) (2022-10-07)
+
+
+### chore
+
+* **deps:** upgrade for eslint v8 ([6455670](https://github.com/TMWare/eslint-config-typescript/commit/6455670f244088153d02d6000b2ef384c0d06e45))
+
 ## [1.0.8](https://github.com/TMWare/eslint-config-typescript/compare/v1.0.7...v1.0.8) (2021-07-10)
 
 

@@ -25,7 +25,7 @@
     "@tmware/prettier-config": "1.0.3",
     "@tmware/semantic-release-npm-github-publish": "1.5.5",
     "@types/node": "18.8.3",
-    "eslint": "8.24.0",
+    "eslint": "8.27.0",
     "prettier": "2.7.1",
     "semantic-release": "19.0.5",
     "typescript": "4.8.4"
